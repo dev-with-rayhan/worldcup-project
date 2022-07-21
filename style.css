@@ -136,6 +136,14 @@ body{
     justify-content: space-around;
     width:100%;
 }
+#upcoming-match a{
+    text-decoration: none;
+    color: white;
+}
+#blog-section-button-id a{
+    text-decoration: none;
+    color:black;
+}
 
 /*matches section end*/
 /*footer section start*/
